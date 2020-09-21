@@ -1,0 +1,13 @@
+h1 { 
+    couleur: # 0000FF; 
+ } 
+ p.example { 
+    couleur: rgb (255,0,0); 
+ }
+
+} 
+p.underline { 
+   texte-décoration:  souligné ; 
+}
+</body>
+</html>
